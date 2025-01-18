@@ -1,7 +1,7 @@
 {
-  "name": "zjc-cli",
-  "version": "0.0.1",
-  "description": "zjc-cli 脚手架",
+  "name": "zjc-clis",
+  "version": "0.0.3",
+  "description": "zjc-clis 脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,22 +1,22 @@
 # zjc-cil
-![Npm 版本](https://img.shields.io/badge/zjc-cil_v0.0.1-green)
+![Npm 版本](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fzjc-cils_v0.0.3-green)
 
 
-## ![alt text](004774E8.png)简介
+## 简介
 
-zjc-cli 是一个基于 Vue3、Vite、Typescript、JavaScript 的脚手架工具，用于快速创建项目。
+zjc-clis 是一个基于 Vue3、Vite、Typescript、JavaScript 的脚手架工具，用于快速创建项目。
 
-## ![alt text](0047D1CD.png)模版
+## 模版
 
-快速生成Vue3、Vite、Typescript、JavaScript的模版
+快速生成 [Vue3、Vite、Typescript、JavaScript的模版](https://github.com/zhangjiachang-q/jiaoshoujia/tree/master)
 
 ## 安装
 
 ```bash
-npm install zjc-cli -g
+npm install zjc-clis -g
 ```
 
-## ![alt text](0049D36A.png)使用
+## 使用
 
 ```bash
 # 使用模版创建一个新项目
